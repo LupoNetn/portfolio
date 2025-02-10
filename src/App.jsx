@@ -16,7 +16,7 @@ const App = () => {
       <Projects />
       <Contact />
       <footer className="bg-gray-900 text-white py-8 text-center">
-        <p>© {new Date().getFullYear()} Lupo Oluwatobi. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Lupo Oluwatobi Daniel. All rights reserved.</p>
       </footer>
     </div>
   );
