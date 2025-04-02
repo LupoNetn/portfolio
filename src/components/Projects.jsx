@@ -5,19 +5,19 @@ const Projects = () => {
   const projects = [
     {
       title: "Project 1",
-      description: "A full-stack web application built with React and Node.js",
-      image: "https://via.placeholder.com/400x300",
-      technologies: ["React", "Node.js", "MongoDB"],
-      link: "#",
-      github: "#"
+      description: "Google Gemini Clone",
+      image: "/gemini-project.png",
+      technologies: ["React", "Gemini API"],
+      link: "https://luponetn.github.io/google-gemini/",
+      github: "https://github.com/LupoNetn/google-gemini"
     },
     {
       title: "Project 2",
-      description: "E-commerce platform with payment integration",
-      image: "https://via.placeholder.com/400x300",
-      technologies: ["React", "Express", "Stripe"],
-      link: "#",
-      github: "#"
+      description: "E-commerce platform, dynamic data upload with the use of a headless cms",
+      image: "/shoppy-project.png",
+      technologies: ["React", "Next", "sanity", "Stripe"],
+      link: "https://shoppy-orcin-iota.vercel.app/",
+      github: "https://github.com/LupoNetn/shoppy"
     },
     {
       title: "Project 3",
